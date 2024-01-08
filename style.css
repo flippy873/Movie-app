@@ -1,0 +1,26 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  #icon {
+    width: 15vw;
+    height: 15vw;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+  
+  }
+  
+  #otsikkoalue {
+    background-color: #6b7fe6;
+    position: relative;
+    height: 150px;
+    border-radius: 10px;
+  }
+  
+  .omaNappi {
+    background-color: #6b7fe6;
+    color: black;
+    border-radius: 10px;
+  }
